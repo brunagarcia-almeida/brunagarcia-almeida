@@ -1,0 +1,6 @@
+- 👋 Fala galera, eu sou @brunagarcia-almeida
+- 👀 Entrei para área de TI em 2014, e estou há 1 ano como dev full.
+- 🌱 No momento aprendendo Angular, Java e Cloud. 
+- 💞️ Estou aqui para aprender!
+- 📫 brunagarcia.almeida@outlook.com.br
+- 📫 https://www.linkedin.com/in/bruna-garcia-de-almeida-630748b6/
