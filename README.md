@@ -1,5 +1,5 @@
 - 👋 Fala galera, eu sou @brunagarcia-almeida
-- 👀 Entrei para a área de TI em 2014, e estou há 1 ano como dev full stack.
+- 👀 Entrei para a área de TI em 2014, e atualmente trabalho como dev full stack.
 - 🌱 No momento estou estudando Angular, Java e Cloud. 
 - 💞️ Estou aqui para aprender!
 - 📫 brunagarcia.almeida@outlook.com.br
