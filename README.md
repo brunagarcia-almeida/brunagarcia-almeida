@@ -3,4 +3,3 @@
 - 🌱 No momento estou estudando Angular, Java e Cloud. 
 - 💞️ Estou aqui para aprender!
 - 📫 brunagarcia.almeida@outlook.com.br
-- 📫 https://www.linkedin.com/in/bruna-garcia-de-almeida-630748b6/
